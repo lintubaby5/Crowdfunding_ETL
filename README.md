@@ -18,9 +18,10 @@ Using Python, Pandas, Jupyter Notebook, and a PostgreSQL(pgAdmin) database:
  ERD Diagram Created :
  ![ERD](ERD.png)
  
- Work Split
+ Work Split:
+  
+ We both equally splitted the work, worked on Data Analysis our own and then combined our notebook into one after reviewing both.
  
- We both equally splitted the work, worked on Data Analysis our own and then combined our notebook into one after reviewing both. 
  Zaid woked on creating th ERD diagram and Lintu worked on SQL queries to create the tables. We had some issues while importing the data that we were able to fix ourselves.
  
  Repository Structure : 
