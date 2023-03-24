@@ -25,12 +25,18 @@ Using Python, Pandas, Jupyter Notebook, and a PostgreSQL(pgAdmin) database:
  Zaid woked on creating th ERD diagram and Lintu worked on SQL queries to create the tables. We had some issues while importing the data that we were able to fix ourselves.
  
  Repository Structure : 
+ 
  Resources Folder --> Contains all the csv (were exported after the analysis) and xlsx files (were given as part of the project)
+ 
+ 
   * crowdfunding.xlsx - File provided that contains the uncleaned campaign data
   * contacts.xlsx - Contact file with contact data in json format
   * category.csv - cleaned category file with SubCategory data split from crowdfunding excel
   * subcategory.csv - cleaned category file with SubCategory data split from crowdfunding excel
   * campaign.csv - Cleaned campaign data file
+  
  ETL_Mini_Project_LBaby.ipynb --> Data Analysis Jupyter notebook
+ 
  ERD.png --> ERD diagram to display the Relationship between the tables
+ 
  crowdfunding_db_schema.sql --> Table creation/ Select queries
