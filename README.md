@@ -34,7 +34,9 @@ Using Python, Pandas, Jupyter Notebook, and a PostgreSQL(pgAdmin) database:
   * category.csv - cleaned category file with SubCategory data split from crowdfunding excel
   * subcategory.csv - cleaned category file with SubCategory data split from crowdfunding excel
   * campaign.csv - Cleaned campaign data file
-  
+ 
+ Images folder --> Contains screenshot of the data from the Database Tables
+ 
  ETL_Mini_Project_LBaby.ipynb --> Data Analysis Jupyter notebook
  
  ERD.png --> ERD diagram to display the Relationship between the tables
